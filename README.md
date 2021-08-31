@@ -1,2 +1,0 @@
-# Uma-empresa-possui-nibus-com-48-lugares-24-nas-janelas-e-24-no-corredor-.-Fa-a-um-programa-que-ut
-Uma empresa possui ônibus com 48 lugares (24 nas janelas e 24 no corredor). Faça um  programa que utilize duas listas do Python para controlar as poltronas ocupadas no corredor e  nas janelas. Considere que “0” representa poltrona desocupada e “1” poltrona ocupada.  Inicialmente, todas as poltronas estarão livres. Depois disso, o programa deverá apresentar as  seguintes opções:
